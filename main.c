@@ -8,7 +8,7 @@ int main(int count, char *args[]){
 
     scanf("%s", nome);
 
-    printf("suck it blyat %s\n", nome);
+    printf("suck it blyat: %s\n", nome);
 
     return 0;
 }
