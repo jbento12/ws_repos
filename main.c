@@ -9,7 +9,7 @@ int main(int count, char *args[]){
     printf("Imprima o seu nome\n");
     scanf("%s", nome1);
 
-    printf("Imprima o nome do colega do lado direito\n");
+    printf("Imprima o nome do colega de cima\n");
     scanf("%s", nome2);
 
     printf ("%s is in love with %s\n", nome1, nome2);
